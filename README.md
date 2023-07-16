@@ -1,1 +1,1 @@
-# story
+# Quote Generator
