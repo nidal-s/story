@@ -1,4 +1,4 @@
 # Quote Generator
 
 live link
-https://nidals7.github.io/story/
+https://nidal-s.github.io/story/
